@@ -1,7 +1,7 @@
 proxmox_host            = "proxmox"
 template_name           = "jammy-template"
 
-ciuser                  = ""
+ciuser                  = "ubuntu"
 cipassword              = ""
 ssh_keys                = ""
 
